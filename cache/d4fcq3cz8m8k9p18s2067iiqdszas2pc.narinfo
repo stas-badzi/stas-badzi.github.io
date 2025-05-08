@@ -1,0 +1,10 @@
+StorePath: /nix/store/d4fcq3cz8m8k9p18s2067iiqdszas2pc-doas-keepenv-1.0
+URL: nar/0jimchiilxi3j5m8z0bzcdfj0xwwdsr68h42h916i8bpfc85syk4.nar.xz
+Compression: xz
+FileHash: sha256:0jimchiilxi3j5m8z0bzcdfj0xwwdsr68h42h916i8bpfc85syk4
+FileSize: 652
+NarHash: sha256:0hc2z1lx0dq2hk42mx3yz4fm0r6gjpc3ld2n5nlhvh8hsi1g0n8h
+NarSize: 1848
+References: 1jzhbwq5rjjaqa75z88ws2b424vh7m53-bash-5.2p32 d4fcq3cz8m8k9p18s2067iiqdszas2pc-doas-keepenv-1.0 n9gh8gxx5xx51ihgll2l20ar9b2vmgzy-coreutils-9.5
+Deriver: g98mcjbgzwvp11zx7ai4g004c27asq13-doas-keepenv-1.0.drv
+Sig: stas-badzi.github.io:3RnD5z1nDNO+IAyptIZDZzXytESraLaxNRAGfYG6phbqWUvDpzLrVFbQaflzz45sa1wbipuh6mBwVIMXthNvDA==
