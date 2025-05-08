@@ -1,0 +1,8 @@
+StorePath: /nix/store/dd13q38yxm9qppjclsvwn10dscsf0l9w-gcc-13.2.0-libgcc
+URL: nar/1pyda1m4z114np66n5i4v8cafqs2iklh3j2s1zmld9bppawpb89g.nar.xz
+Compression: xz
+FileHash: sha256:1pyda1m4z114np66n5i4v8cafqs2iklh3j2s1zmld9bppawpb89g
+FileSize: 58868
+NarHash: sha256:07pxcfggdmrsry31qga16dkq5cd4kdyyhc20g0kwcbks146ws0h4
+NarSize: 159560
+References: 

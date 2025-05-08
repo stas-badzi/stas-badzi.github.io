@@ -1,0 +1,8 @@
+StorePath: /nix/store/90yn7340r8yab8kxpb0p7y0c9j3snjam-gcc-13.2.0-lib
+URL: nar/0ihw940nrd84cnahckjjvlyx55dpk2gp4q6h7kcd005iryqaw3dx.nar.xz
+Compression: xz
+FileHash: sha256:0ihw940nrd84cnahckjjvlyx55dpk2gp4q6h7kcd005iryqaw3dx
+FileSize: 1898396
+NarHash: sha256:0a1f42b7xksijvqv4svhzvpgn1a3is24qvc445y6ss2fjbkrwqvs
+NarSize: 9088840
+References: 90yn7340r8yab8kxpb0p7y0c9j3snjam-gcc-13.2.0-lib dd13q38yxm9qppjclsvwn10dscsf0l9w-gcc-13.2.0-libgcc pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52

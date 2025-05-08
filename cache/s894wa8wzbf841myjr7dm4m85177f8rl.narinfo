@@ -1,0 +1,8 @@
+StorePath: /nix/store/s894wa8wzbf841myjr7dm4m85177f8rl-attr-2.5.2
+URL: nar/1r8faxfbiyj8m46q69wzvl9k8jcs3b7br4nxscrfsjz5mly4nw7q.nar.xz
+Compression: xz
+FileHash: sha256:1r8faxfbiyj8m46q69wzvl9k8jcs3b7br4nxscrfsjz5mly4nw7q
+FileSize: 16548
+NarHash: sha256:0j5zpa9yb8mgvmma6iqqbdin6fk30d0syz0fap88znllpwvd1bzq
+NarSize: 92760
+References: pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52 s894wa8wzbf841myjr7dm4m85177f8rl-attr-2.5.2

@@ -1,0 +1,8 @@
+StorePath: /nix/store/80kzdbnl1bmnd8r8hphh1xzmgsvyyf6w-acl-2.3.2
+URL: nar/1vsk0y7s8cw4ixx0pm2fhkpcbjd2mjlir09xfqi5gsf09hnr9yhj.nar.xz
+Compression: xz
+FileHash: sha256:1vsk0y7s8cw4ixx0pm2fhkpcbjd2mjlir09xfqi5gsf09hnr9yhj
+FileSize: 25320
+NarHash: sha256:0n851i5gvlqin20y4ajf89wrp2gvdy3lhi7y22is8gblg0yd15ss
+NarSize: 128224
+References: 80kzdbnl1bmnd8r8hphh1xzmgsvyyf6w-acl-2.3.2 pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52 s894wa8wzbf841myjr7dm4m85177f8rl-attr-2.5.2

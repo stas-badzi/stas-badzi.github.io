@@ -1,0 +1,8 @@
+StorePath: /nix/store/pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52
+URL: nar/0nd2hpb8n92xqsqmghyhx5dxknwqd28mwjvyhpmp8gdsfq04hz6c.nar.xz
+Compression: xz
+FileHash: sha256:0nd2hpb8n92xqsqmghyhx5dxknwqd28mwjvyhpmp8gdsfq04hz6c
+FileSize: 6510308
+NarHash: sha256:17ks3p3ncnf78f1rxqp7gnbrjwsikcca3z1yz5yi2rdb9cq3srsp
+NarSize: 30124144
+References: 2y852kcvb7shrj8f3z8j22pa0iybcbgj-xgcc-13.2.0-libgcc 9jivp79yv91fl1i6ayq2107a78q7k43i-libidn2-2.3.7 pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52

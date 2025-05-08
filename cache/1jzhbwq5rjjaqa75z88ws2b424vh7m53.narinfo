@@ -1,0 +1,8 @@
+StorePath: /nix/store/1jzhbwq5rjjaqa75z88ws2b424vh7m53-bash-5.2p32
+URL: nar/0jq1ljj009px8jykkdm7fsn89agwrig65y174cnycviyq1nzgcwh.nar.xz
+Compression: xz
+FileHash: sha256:0jq1ljj009px8jykkdm7fsn89agwrig65y174cnycviyq1nzgcwh
+FileSize: 435900
+NarHash: sha256:154s07yrpfxjlb4n0nf528l2hcfij4y41zmbj5gnl58q5nrai1cr
+NarSize: 1621464
+References: 1jzhbwq5rjjaqa75z88ws2b424vh7m53-bash-5.2p32 pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52

@@ -1,0 +1,8 @@
+StorePath: /nix/store/n9gh8gxx5xx51ihgll2l20ar9b2vmgzy-coreutils-9.5
+URL: nar/07rj5iwlrfa62qzai7203wml28f6kn2n633dpp2rh3a7hziysn14.nar.xz
+Compression: xz
+FileHash: sha256:07rj5iwlrfa62qzai7203wml28f6kn2n633dpp2rh3a7hziysn14
+FileSize: 537828
+NarHash: sha256:0gmzrpj6gz4dn57jyprdnmjz1i7dmxadc1zx9yr5jsfz9pr5x7rs
+NarSize: 1468968
+References: 0pkjhzncyjkvhq8lwmdkzvl4cs4vh0yb-gmp-with-cxx-6.3.0 80kzdbnl1bmnd8r8hphh1xzmgsvyyf6w-acl-2.3.2 n9gh8gxx5xx51ihgll2l20ar9b2vmgzy-coreutils-9.5 pf5avvvl4ssd6kylcvg2g23hcjp71h19-glibc-2.39-52 s894wa8wzbf841myjr7dm4m85177f8rl-attr-2.5.2
