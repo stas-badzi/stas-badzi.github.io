@@ -1,0 +1,10 @@
+StorePath: /nix/store/gv7z0km39q3fgzavpic8vrl7smh5n2w6-gcc-14.2.1.20250322-lib
+URL: nar/04y88f68p615cql3mcri2pkkald59qab31h2k3980gjsbx04m4k6.nar.xz
+Compression: xz
+FileHash: sha256:04y88f68p615cql3mcri2pkkald59qab31h2k3980gjsbx04m4k6
+FileSize: 2039308
+NarHash: sha256:0g38qdhk583fdfjnhcbnnq6ly9bad1f82y81ccs5m2dx6v6kdfyg
+NarSize: 9990528
+References: 0x600292yi5qzg389nan9j4dvzlh8785-gcc-14.2.1.20250322-libgcc g3s0z9r7m1lsfxdk8bj88nw8k8q3dmmg-glibc-2.40-66 gv7z0km39q3fgzavpic8vrl7smh5n2w6-gcc-14.2.1.20250322-lib
+Deriver: 0a3ygb4r5hrpn7mzfkz7p93cy2frh76b-gcc-14.2.1.20250322.drv
+Sig: cache.nixos.org-1:wuzwjyPrWN8okIep7FnlDsa13mtjg+jwMi7y5XF8D64q690ZIuIN0sNWMj0q/dIitdjmhGn3SpE4re/gMW9KBQ==
